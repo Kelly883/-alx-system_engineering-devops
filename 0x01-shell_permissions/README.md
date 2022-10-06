@@ -1,0 +1,2 @@
+0.create script to switch current user to another. 1.print the effective username of the current user. 2.print all the groups the current user is part of. 3.changes the owner of the file. 4.create an empty file. 5.adds execute permission to the owner of the file. 6.execute permission to the owner and group owner. 7.execute permission to the owner,the group owner and the other users 8.sets the permissions to the file
+9.set mode for the file. 10.set mode to be the same. 10.subdirectories 12.create directory. 13.changes the group owner
