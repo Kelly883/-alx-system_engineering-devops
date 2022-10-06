@@ -1,1 +1,1 @@
-My system engineering readme
+This repository contains solutions to shell tasks 
